@@ -1,3 +1,3 @@
 import getpass
 
-print(f'Hello {getpass.getuser()}!')
+print(f'Hello {input("Hi, what is your name?")}!')
